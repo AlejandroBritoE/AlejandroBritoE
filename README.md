@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hola soy Alejandro vivo en la ciudad de Iquique, Chile.
+Poseo experiencia y conocimientos en base de datos, sql y excel. ademas cuento con certificaciones de FrondEnd junior, Ux/Ui junior. 
 
